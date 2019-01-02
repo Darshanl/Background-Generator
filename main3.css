@@ -1,0 +1,21 @@
+body {
+    font-family: 'Adobe Arabic', Arial, Helvetica;
+    background:linear-gradient(to right, red , yellow);
+    text-align: center;
+    color:rgba(0,0,0,0.5);
+    text-transform: uppercase;
+    top:15%;
+    letter-spacing: 0.5em;
+}
+h1{
+    font-size:3rem;
+    letter-spacing: 0.5em;
+    width:100%;
+}
+h3{
+    text-align: center;
+    color:rgba(0,0,0,0.5);
+    text-transform: uppercase;
+    top:15%;
+    letter-spacing: 0.1em;
+}
