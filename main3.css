@@ -1,6 +1,6 @@
 body {
     font-family: 'Adobe Arabic', Arial, Helvetica;
-    background:linear-gradient(to right, red , yellow);
+    background:linear-gradient(to right, rgb(233, 25, 25) , rgb(0, 255, 191));
     text-align: center;
     color:rgba(0,0,0,0.5);
     text-transform: uppercase;
